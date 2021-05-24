@@ -1,2 +1,2 @@
 master moved
-fix3 added
+fix3 removed:

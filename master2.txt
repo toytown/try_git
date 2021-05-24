@@ -1,4 +1,3 @@
 master moved
 fix3 added
-changed main
-changed master directly
+added fix3 new
